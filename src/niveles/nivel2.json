@@ -1,0 +1,14 @@
+{
+  "dimensiones": [6, 6],
+  "entidades": [
+   [["","DobleRayado","Amarillo"], ["", "Caramelo", "Violeta"], ["", "Envuelto", "Rojo"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Rojo"]],
+    [["","Caramelo","Amarillo"], ["", "Caramelo", "Amarillo"], ["", "Caramelo", "Verde"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Verde"]], 
+    [["","Caramelo","Azul"], ["", "Caramelo", "Verde"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Naranja"], ["", "Caramelo", "Verde"], ["", "Caramelo", "Rojo"]], 
+    [["","Caramelo","Amarillo"], ["", "Caramelo", "Verde"], ["", "Vertical", "Amarillo"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Violeta"], ["", "Caramelo", "Rojo"]], 
+    [["","Caramelo","Amarillo"], ["", "Caramelo", "Amarillo"], ["", "Caramelo", "Verde"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Verde"]], 
+    [["","Glaseado","Blanco"], ["","Glaseado","Blanco"], ["","Glaseado","Blanco"], ["","Glaseado","Blanco"], ["","Glaseado","Blanco"], ["","Glaseado","Blanco"]] ],
+  "movimientos": 10,
+  "tiempo": 182,
+  "objetivos": [6,["","Glaseado","Blanco"]],
+  "reglas":["5","4","3"]
+}

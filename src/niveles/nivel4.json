@@ -1,0 +1,15 @@
+{
+  "dimensiones": [6, 6],
+  "entidades": [
+    [["", "Caramelo", "Rojo"], ["", "Caramelo", "Violeta"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Violeta"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Violeta"]],
+    [["", "Caramelo", "Naranja"], ["", "Caramelo", "Naranja"], ["", "Caramelo", "Amarillo"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Amarillo"], ["", "Caramelo", "Verde"]], 
+    [["", "Caramelo", "Amarillo"], ["", "Caramelo", "Verde"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Azul"]], 
+    [["", "Caramelo", "Amarillo"], ["", "Caramelo", "Naranja"], ["", "Caramelo", "Amarillo"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Rojo"], ["", "Caramelo", "Verde"]], 
+    [["", "Caramelo", "Naranja"], ["", "Caramelo", "Violeta"], ["", "Caramelo", "Azul"], ["", "Caramelo", "Violeta"], ["", "Envuelto", "Azul"], ["", "Caramelo", "Azul"]], 
+    [["Gelatina","Caramelo","Naranja"], ["Gelatina","Caramelo","Azul"], ["Gelatina","Envuelto","Amarillo"], ["Gelatina","Caramelo","Naranja"], ["Gelatina","Caramelo","Verde"], ["Gelatina","Envuelto","Amarillo"]]
+  ],
+    "movimientos": 15,
+  "tiempo": 302,
+  "objetivos": [15,["","Caramelo","Naranja"]],
+ "reglas": ["3","4","5","T","L"]
+}
